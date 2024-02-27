@@ -12,7 +12,7 @@ The website is minimized as much as possible to avoid errors when entering data.
 
 ## Website Link-
 
-<a href="https://aditheripper.github.io/Taco-Jn/">Tasty Taco's</a>
+<a href="https://github.com/Excelsior92/CODSOFT/edit/main/README.md">Tasty Taco's</a>
 
 ## 📝 Table of Contents
 
